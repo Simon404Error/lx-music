@@ -83,10 +83,6 @@
 
 在 Windows 平台上，若程序文件夹中存在 `portable` 文件夹，则自动使用此文件夹作为数据存储文件夹（适用于 v1.17.0 及以上版本）。
 
-## 用户界面
-
-<p><img width="100%" src="./doc/images/app.png" alt="lx-music desktop UI"></p>
-
 ## 贡献代码
 
 本项目欢迎 PR，但为了 PR 能顺利合并，需要注意以下几点：
